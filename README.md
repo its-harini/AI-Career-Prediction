@@ -3,7 +3,11 @@
 An AI-powered career guidance system that uses Machine Learning to predict suitable career paths based on a student's technical skills, communication ability, aptitude, and project experience.
 
 The system also identifies skill gaps and provides personalized learning recommendations for the predicted career.
+## 🌐 Live Demo
 
+Try the application here:
+
+https://ai-career-prediction-8zmtj2jvzwvizndsuggxb9.streamlit.app/
 ## 🚀 Features
 
 * 🤖 Machine Learning based career prediction
